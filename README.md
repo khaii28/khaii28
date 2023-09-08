@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @khaii28
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Khairunissafitri
+- 👀 you can call me khai 
 - 🌱 I’m currently learning Universitas Indraprasta PGRI
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me khairunissafitri539@gmail.com 
 
 <!---
